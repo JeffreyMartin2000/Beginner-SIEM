@@ -1,4 +1,4 @@
-# Beginner-SIEM
+# HoneyPot-SIEM
 My goal in this project is to learn how to create a SIEM and log events using one virtual machine acting as a honeypot. I learned how to create a log and even output geodata from attackers. I used a powershell script open to the public that shows the events and the geodata from attackers through Windows Powershell ISE. 
 - <h> Started up a HoneyPot VM, LAW, and SIEM through Microsoft Azure<img width="958" alt="Screenshot 2023-04-02 213234" src="https://user-images.githubusercontent.com/129632324/229392330-fdb770b0-06ba-412d-83a4-0ee5dcfbff85.png">
 
